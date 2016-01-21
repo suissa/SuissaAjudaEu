@@ -14,4 +14,8 @@ Projeto pra ajudar as pessoas, inicialmente, com seus TCCs.
 ## Orientados
 
 - Carlos Tres-Machel
+  - [carlosmachel](https://github.com/carlosmachel)
+  - Vitória, Espirito Santo
+  - Sistemas de Informação
+  - Faculdade Católica Salesiana do Espírito Santo
 - Diego Bittencourt
