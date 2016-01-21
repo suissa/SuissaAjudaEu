@@ -19,3 +19,7 @@ Projeto pra ajudar as pessoas, inicialmente, com seus TCCs.
   - Sistemas de Informação
   - Faculdade Católica Salesiana do Espírito Santo
 - Diego Bittencourt
+  - [hevant](https://github.com/hevant)
+  - Curitiba, Paraná
+  - Sistemas para Internet com Ênfase em Smartphones e Tablets
+  - Centro Tecnológico Positivo
