@@ -23,3 +23,8 @@ Projeto pra ajudar as pessoas, inicialmente, com seus TCCs.
   - Curitiba, Paraná
   - Sistemas para Internet com Ênfase em Smartphones e Tablets
   - Centro Tecnológico Positivo
+- Davidson Nascimento
+  - [davidsonsns](https://github.com/davidsonsns)
+  - Belo Horizonte, Minas Gerais
+  - Sistemas de Informação
+  - PUC
