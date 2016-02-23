@@ -38,3 +38,8 @@ Projeto pra ajudar as pessoas, inicialmente, com seus TCCs.
   - Maringá, Paraná
   - Desenvolvimento de sistemas orientados a objetos em JAVA
   - UniCesumar
+- Lucas de Oliveira
+  - [deoliveiralucas](https://github.com/deoliveiralucas)
+  - Lorena, São Paulo
+  - Pós-Graduação - Desenvolvimento de Sistemas Web e Mobile
+  - UNISAL
