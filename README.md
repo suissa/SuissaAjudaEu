@@ -33,3 +33,9 @@ Projeto pra ajudar as pessoas, inicialmente, com seus TCCs.
   - Fortaleza, Ceará
   - MBA - Engenharia de Software
   - Centro Universitário Estácio do Ceará
+- Douglas da Silva dos Santos
+  - [Douglas](https://github.com/dougss10)
+  - Maringá, Paraná
+  - Desenvolvimento de sistemas orientados a objetos em JAVA
+  - UniCesumar
+  - PR
