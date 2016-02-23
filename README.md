@@ -11,7 +11,7 @@ Projeto pra ajudar as pessoas, inicialmente, com seus TCCs.
 6. Entrega de objetivos mensais
 
 
-## Orientados
+## Co-orientados
 
 - Carlos Tres-Machel
   - [carlosmachel](https://github.com/carlosmachel)
