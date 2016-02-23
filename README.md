@@ -43,3 +43,8 @@ Projeto pra ajudar as pessoas, inicialmente, com seus TCCs.
   - Lorena, São Paulo
   - Pós-Graduação - Desenvolvimento de Sistemas Web e Mobile
   - UNISAL
+- William Dias Vargas
+  - [wdiasvargas](https://github.com/wdiasvargas)
+  - Sinop, Mato Grosso
+  - Licenciatura em Computação
+  - UNEMAT
