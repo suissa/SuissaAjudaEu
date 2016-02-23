@@ -28,7 +28,7 @@ Projeto pra ajudar as pessoas, inicialmente, com seus TCCs.
   - Belo Horizonte, Minas Gerais
   - Sistemas de Informação
   - PUC
-  - William Dias Vargas
+- William Dias Vargas
   - [wdiasvargas](https://github.com/wdiasvargas)
   - Sinop, Mato Grosso
   - Licenciatura em Computação
