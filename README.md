@@ -33,6 +33,11 @@ Projeto pra ajudar as pessoas, inicialmente, com seus TCCs.
   - Fortaleza, Ceará
   - MBA - Engenharia de Software
   - Centro Universitário Estácio do Ceará
+- Miqueias Penha
+  - [miqueiaspenha](https://github.com/miqueiaspenha)
+  - Fortaleza, Ceará
+  - Sistemas de Informação
+  - Centro Universitário Estácio do Ceará
 - Lucas de Oliveira
   - [deoliveiralucas](https://github.com/deoliveiralucas)
   - Lorena, São Paulo
