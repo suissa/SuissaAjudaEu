@@ -28,3 +28,8 @@ Projeto pra ajudar as pessoas, inicialmente, com seus TCCs.
   - Belo Horizonte, Minas Gerais
   - Sistemas de Informação
   - PUC
+- Pedro Henrique
+  - [pedrohills](https://github.com/pedrohills)
+  - Fortaleza, Ceará
+  - MBA - Engenharia de Software
+  - Centro Universitário Estácio do Ceará
