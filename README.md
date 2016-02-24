@@ -48,3 +48,8 @@ Projeto pra ajudar as pessoas, inicialmente, com seus TCCs.
   - Sinop, Mato Grosso
   - Licenciatura em Computação
   - UNEMAT
+- Diego Candido
+  - [diegocandido](https://github.com/diegocandido)
+  - Taquara, Rio Grande do Sul
+  - Sistemas de Internet
+  - Faccat
