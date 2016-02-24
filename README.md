@@ -48,3 +48,8 @@ Projeto pra ajudar as pessoas, inicialmente, com seus TCCs.
   - Sinop, Mato Grosso
   - Licenciatura em Computação
   - UNEMAT
+- Caio Cesar Correia Regatieri
+  - [caioregatieri](https://github.com/caioregatieri)
+  - Franca, São Paulo
+  - Pós-Graduação - Desenvolvimento Web
+  - Claretiano
