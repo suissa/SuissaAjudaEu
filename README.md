@@ -66,3 +66,8 @@ Para ajudá-los irei co-orientar seus TCCs pois os mesmos irão utiizar alguma(s
   - Taquara, Rio Grande do Sul
   - Sistemas de Internet
   - Faccat
+- Bruno Henrique Cardoso da Silva
+  - [brunohjs](https://github.com/bruunohjs)
+  - Santa Cruz do Rio Pardo, São Paulo
+  - Bacharel em Sistema de Informação
+  - FIO
