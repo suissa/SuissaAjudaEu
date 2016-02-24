@@ -1,5 +1,8 @@
 # SuissaAjudaEu
-Projeto pra ajudar as pessoas, inicialmente, com seus TCCs.
+
+Projeto, inicialmente, pra ajudar meus alunos com seus TCCs.
+
+Para ajudá-los irei co-orientar seus TCCs pois os mesmos irão utiizar alguma(s) da(s) tecnologias que ensino no Be MEAN, ajudo também na definição da ideia fazendo um brainstorming com o aluno e/ou equipe.
 
 ## Passos
 
@@ -11,7 +14,7 @@ Projeto pra ajudar as pessoas, inicialmente, com seus TCCs.
 6. Entrega de objetivos mensais
 
 
-## Orientados
+## Co-orientados
 
 - Carlos Tres-Machel
   - [carlosmachel](https://github.com/carlosmachel)
@@ -33,6 +36,11 @@ Projeto pra ajudar as pessoas, inicialmente, com seus TCCs.
   - Fortaleza, Ceará
   - MBA - Engenharia de Software
   - Centro Universitário Estácio do Ceará
+- Douglas da Silva dos Santos
+  - [Douglas](https://github.com/dougss10)
+  - Maringá, Paraná
+  - Desenvolvimento de sistemas orientados a objetos em JAVA
+  - UniCesumar
 - Miqueias Penha
   - [miqueiaspenha](https://github.com/miqueiaspenha)
   - Fortaleza, Ceará
@@ -43,3 +51,18 @@ Projeto pra ajudar as pessoas, inicialmente, com seus TCCs.
   - Lorena, São Paulo
   - Pós-Graduação - Desenvolvimento de Sistemas Web e Mobile
   - UNISAL
+- William Dias Vargas
+  - [wdiasvargas](https://github.com/wdiasvargas)
+  - Sinop, Mato Grosso
+  - Licenciatura em Computação
+  - UNEMAT
+- Caio Cesar Correia Regatieri
+  - [caioregatieri](https://github.com/caioregatieri)
+  - Franca, São Paulo
+  - Pós-Graduação - Desenvolvimento Web
+  - Claretiano
+- Diego Candido
+  - [diegocandido](https://github.com/diegocandido)
+  - Taquara, Rio Grande do Sul
+  - Sistemas de Internet
+  - Faccat
