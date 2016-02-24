@@ -2,7 +2,7 @@
 
 Projeto, inicialmente, pra ajudar meus alunos com seus TCCs.
 
-Para ajudá-los irei co-orientar seus TCCs pois os mesmos irão utiizar alguma(s) da(s) tecnologias que ensino no [Be MEAN](http://webschool.io/bemean), ajudo também na definição da ideia fazendo um brainstorming com o aluno e/ou equipe.
+Para ajudá-los irei co-orientar seus TCCs pois os mesmos irão utiizar alguma(s) da(s) tecnologias que ensino no Be MEAN, ajudo também na definição da ideia fazendo um brainstorming com o aluno e/ou equipe.
 
 ## Passos
 
@@ -11,7 +11,7 @@ Para ajudá-los irei co-orientar seus TCCs pois os mesmos irão utiizar alguma(s
 3. Definir prazo para os objetivos.
 4. Definir planejamento semanal até objetivo final.
 5. Reunião semanal para análise de andamento.
-6. Entrega e teste de objetivos mensais
+6. Entrega de objetivos mensais
 
 
 ## Co-orientados
@@ -41,6 +41,11 @@ Para ajudá-los irei co-orientar seus TCCs pois os mesmos irão utiizar alguma(s
   - Maringá, Paraná
   - Desenvolvimento de sistemas orientados a objetos em JAVA
   - UniCesumar
+- Miqueias Penha
+  - [miqueiaspenha](https://github.com/miqueiaspenha)
+  - Fortaleza, Ceará
+  - Sistemas de Informação
+  - Centro Universitário Estácio do Ceará
 - Lucas de Oliveira
   - [deoliveiralucas](https://github.com/deoliveiralucas)
   - Lorena, São Paulo
