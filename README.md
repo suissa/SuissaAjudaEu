@@ -66,3 +66,8 @@ Para ajudá-los irei co-orientar seus TCCs pois os mesmos irão utiizar alguma(s
   - Taquara, Rio Grande do Sul
   - Sistemas de Internet
   - Faccat
+- João Paulo S. De Araújo
+  - [ajoao1988](https://github.com/ajoao88)
+  - São Paulo, SP
+  - Sistemas de Informação
+  - Uninove
