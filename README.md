@@ -71,3 +71,13 @@ Para ajudá-los irei co-orientar seus TCCs pois os mesmos irão utiizar alguma(s
   - Pelotas, Rio Grande do Sul
   - Ciência da Computaçaão
   - UFPEL
+- Bruno Henrique Cardoso da Silva
+  - [brunohjs](https://github.com/bruunohjs)
+  - Santa Cruz do Rio Pardo, São Paulo
+  - Bacharel em Sistema de Informação
+  - FIO
+- João Paulo S. De Araújo
+  - [ajoao1988](https://github.com/ajoao88)
+  - São Paulo, SP
+  - Sistemas de Informação
+  - Uninove
