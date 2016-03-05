@@ -66,3 +66,8 @@ Para ajudá-los irei co-orientar seus TCCs pois os mesmos irão utiizar alguma(s
   - Taquara, Rio Grande do Sul
   - Sistemas de Internet
   - Faccat
+- Matheus José Krumenauer Weber
+  - [matheusjkweber](https://github.com/matheusjkweber)
+  - Pelotas, Rio Grande do Sul
+  - Ciência da Computaçaão
+  - UFPEL
