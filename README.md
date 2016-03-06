@@ -81,3 +81,8 @@ Para ajudá-los irei co-orientar seus TCCs pois os mesmos irão utiizar alguma(s
   - São Paulo, SP
   - Sistemas de Informação
   - Uninove
+- Gabriel Panassol da Fonseca
+  - [gpanassol](https://github.com/gpanassol)
+  - Votorantim, SP
+  - Gestão em Tecnologia da Informação
+  - Fatec
