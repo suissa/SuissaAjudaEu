@@ -96,3 +96,8 @@ Para ajudá-los irei co-orientar seus TCCs pois os mesmos irão utiizar alguma(s
   - Amaporã, Paraná
   - Sistemas para Internet
   - Faculdade Fatecie
+- Mateus Cerezini Gomes
+  - [Cerezini](https://github.com/Cerezini)
+  - Vitória, Espírito Santo
+  - Engenharia de Computação
+  - UFES
