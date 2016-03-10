@@ -92,3 +92,8 @@ Para ajudá-los irei co-orientar seus TCCs pois os mesmos irão utiizar alguma(s
   - Sapucaia do Sul, Rio Grande do Sul
   - Tenologia em Sistemas para Internet
   - Faculdade Ulbra Canoas
+- Mateus Cerezini Gomes
+  - [Cerezini](https://github.com/Cerezini)
+  - Vitória, Espírito Santo
+  - Engenharia de Computação
+  - UFES
