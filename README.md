@@ -86,9 +86,13 @@ Para ajudá-los irei co-orientar seus TCCs pois os mesmos irão utiizar alguma(s
   - Votorantim, SP
   - Gestão em Tecnologia da Informação
   - Fatec
-
 - Vágner Silveira Oliveira
   - [vagnerolliver2](https://github.com/vagnerolliver2)
   - Sapucaia do Sul, Rio Grande do Sul
   - Tenologia em Sistemas para Internet
   - Faculdade Ulbra Canoas
+- Douglas Rafael Silva Delatore
+  - [douglasDelatore](https://github.com/douglasDelatore)
+  - Amaporã, Paraná
+  - Sistemas para Internet
+  - Faculdade Fatecie
