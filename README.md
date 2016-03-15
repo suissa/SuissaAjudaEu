@@ -1,4 +1,4 @@
-# SuissaAjudaEu
+﻿# SuissaAjudaEu
 
 Projeto, inicialmente, pra ajudar meus alunos com seus TCCs.
 
@@ -66,3 +66,8 @@ Para ajudá-los irei co-orientar seus TCCs pois os mesmos irão utiizar alguma(s
   - Taquara, Rio Grande do Sul
   - Sistemas de Internet
   - Faccat
+- Deyves Carvalho
+  - deyvescarvalho(https://github.com/deyvescarvalho)
+  - Jataí, Goiás
+  - Tecnologia em Análise e Desenvolvimento de Sistemas
+  - IFG
