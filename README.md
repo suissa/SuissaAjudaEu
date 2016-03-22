@@ -101,3 +101,8 @@ Para ajudá-los irei co-orientar seus TCCs pois os mesmos irão utiizar alguma(s
   - Vitória, Espírito Santo
   - Engenharia de Computação
   - UFES
+- Deyves Lima Carvalho
+  - [deyvescarvalho](https://github.com/deyvescarvalho)
+  - Jataí, Goiás
+  - Análise e Desenvolvimento de Sistemas
+  - IFG
