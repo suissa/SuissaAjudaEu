@@ -69,5 +69,5 @@ Para ajudá-los irei co-orientar seus TCCs pois os mesmos irão utiizar alguma(s
 - Deyves Carvalho
   - deyvescarvalho(https://github.com/deyvescarvalho)
   - Jataí, Goiás
-  - Tecnologia em Análise e Desenvolvimento de Sistemas
+  - Análise e Desenvolvimento de Sistemas
   - IFG
