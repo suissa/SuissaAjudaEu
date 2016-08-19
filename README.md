@@ -106,9 +106,3 @@ Para ajudá-los irei co-orientar seus TCCs pois os mesmos irão utiizar alguma(s
   - Jataí, Goiás
   - Análise e Desenvolvimento de Sistemas
   - IFG
-- Kauê da Maia
-  - [kaueDM](https://github.com/kaueDM)
-  - Irani, Santa Catarina
-  - Sistemas de Informação
-  - UnC
-
