@@ -106,3 +106,8 @@ Para ajudá-los irei co-orientar seus TCCs pois os mesmos irão utiizar alguma(s
   - Jataí, Goiás
   - Análise e Desenvolvimento de Sistemas
   - IFG
+- Otavio Augusto Bueno
+  - [Guhtol](https://github.com/Guhtol)
+  - Jundiaí, São Paulo
+  - Analise e Desenvolvimento de Sistemas
+  - Universidade Unianchieta
