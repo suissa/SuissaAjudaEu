@@ -121,7 +121,8 @@ Para ajudá-los irei co-orientar seus TCCs pois os mesmos irão utiizar alguma(s
   - Faculdade Alfa
 
 ## Co-orientados - Mestrado
-- Henning Summer [https://github.com/exlboy]
+- Henning Barly Summer de Melo 
+  - [https://github.com/exlboy]
   - Recife/Pernambuco
   - Mestrado em Informática Aplicada
   - Universidade Federal Rural de Pernambuco - UFRPE
