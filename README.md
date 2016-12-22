@@ -14,7 +14,7 @@ Para ajudá-los irei co-orientar seus TCCs pois os mesmos irão utiizar alguma(s
 6. Entrega de objetivos mensais
 
 
-## Co-orientados
+## Co-orientados - TCC
 
 - Carlos Tres-Machel
   - [carlosmachel](https://github.com/carlosmachel)
@@ -111,3 +111,9 @@ Para ajudá-los irei co-orientar seus TCCs pois os mesmos irão utiizar alguma(s
   - Jundiaí, São Paulo
   - Analise e Desenvolvimento de Sistemas
   - Universidade Unianchieta
+
+
+## Co-orientados - Pós
+
+
+## Co-orientados - Mestrado
