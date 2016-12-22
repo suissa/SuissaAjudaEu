@@ -111,14 +111,13 @@ Para ajudá-los irei co-orientar seus TCCs pois os mesmos irão utiizar alguma(s
   - Jundiaí, São Paulo
   - Analise e Desenvolvimento de Sistemas
   - Universidade Unianchieta
+
+## Co-orientados - Pós
+
 - Tiago Amado Durante
   - [tiagodurante](https://github.com/tiagodurante)
   - Altônia/Paraná
   - Pós Graduação em Desenvolvimento WebMobile
   - Faculdade Alfa
-
-
-## Co-orientados - Pós
-
 
 ## Co-orientados - Mestrado
