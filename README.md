@@ -120,6 +120,12 @@ Para ajudá-los irei co-orientar seus TCCs pois os mesmos irão utiizar alguma(s
   - Pós Graduação em Desenvolvimento WebMobile
   - Faculdade Alfa
 
+- Alex Morgado Pereira
+    - [AlexMCoder](https://github.com/AlexMCoder)
+    - Umuarama/Paraná
+    - Pós Graduação em Desenvolvimento WebMobile
+    - Faculdade Alfa
+
 ## Co-orientados - Mestrado
 - Henning Barly Summer de Melo 
   - [https://github.com/exlboy]
