@@ -14,7 +14,7 @@ Para ajudá-los irei co-orientar seus TCCs pois os mesmos irão utiizar alguma(s
 6. Entrega de objetivos mensais
 
 
-## Co-orientados
+## Co-orientados - TCC
 
 - Carlos Tres-Machel
   - [carlosmachel](https://github.com/carlosmachel)
@@ -106,3 +106,29 @@ Para ajudá-los irei co-orientar seus TCCs pois os mesmos irão utiizar alguma(s
   - Jataí, Goiás
   - Análise e Desenvolvimento de Sistemas
   - IFG
+- Otavio Augusto Bueno
+  - [Guhtol](https://github.com/Guhtol)
+  - Jundiaí, São Paulo
+  - Analise e Desenvolvimento de Sistemas
+  - Universidade Unianchieta
+
+## Co-orientados - Pós
+
+- Tiago Amado Durante
+  - [tiagodurante](https://github.com/tiagodurante)
+  - Altônia/Paraná
+  - Pós Graduação em Desenvolvimento WebMobile
+  - Faculdade Alfa
+
+- Alex Morgado Pereira
+    - [AlexMCoder](https://github.com/AlexMCoder)
+    - Umuarama/Paraná
+    - Pós Graduação em Desenvolvimento WebMobile
+    - Faculdade Alfa
+
+## Co-orientados - Mestrado
+- Henning Barly Summer de Melo 
+  - [https://github.com/exlboy]
+  - Recife/Pernambuco
+  - Mestrado em Informática Aplicada
+  - Universidade Federal Rural de Pernambuco - UFRPE
