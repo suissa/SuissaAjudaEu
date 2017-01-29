@@ -127,8 +127,17 @@ Para ajudá-los irei co-orientar seus TCCs pois os mesmos irão utiizar alguma(s
     - Faculdade Alfa
 
 ## Co-orientados - Mestrado
+
 - Henning Barly Summer de Melo 
   - [https://github.com/exlboy]
   - Recife/Pernambuco
   - Mestrado em Informática Aplicada
   - Universidade Federal Rural de Pernambuco - UFRPE
+
+- Carlos Henrique Ferraz Cabral
+  - [https://github.com/henriqueferraz]
+  - Joinville/Santa Catarina
+  - Mestrado em Direção Estratégica com Especialização em Tecnologias da Informação
+  - Universidade Internacional Iberoamericana, UNINI de Porto Rico.
+  - Mestrado em Direção Estratégica de Engenharia de Software
+  - Universidade Europeia do Atlântico, UNEATLANTICO da Espanha
