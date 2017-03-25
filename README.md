@@ -126,6 +126,12 @@ Para ajudá-los irei co-orientar seus TCCs pois os mesmos irão utiizar alguma(s
     - Pós Graduação em Desenvolvimento WebMobile
     - Faculdade Alfa
 
+- Oracy Rezende Martos
+    - [OracyMartos](https://github.com/Oracy)
+    - Curitiba/Paraná
+    - Pós Graduação em Big Data & Analytics
+    - PUCPR
+
 ## Co-orientados - Mestrado
 
 - Henning Barly Summer de Melo 
