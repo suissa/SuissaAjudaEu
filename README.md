@@ -111,6 +111,11 @@ Para ajudá-los irei co-orientar seus TCCs pois os mesmos irão utiizar alguma(s
   - Jundiaí, São Paulo
   - Analise e Desenvolvimento de Sistemas
   - Universidade Unianchieta
+ - Guilherme de Pontes
+  - [bola1eA100D](https://github.com/bola1eA100D)
+  - Limeira, São Paulo
+  - Ciência da Computação
+  - Universidade Paulista UNIP
 
 ## Co-orientados - Pós
 
